@@ -45,9 +45,8 @@ Passionate about **Python scripting**, I love experimenting with automation, bot
 
 ## 🚀 GitHub Insights  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasssayanhya&show_icons=true&theme=default&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasssayanhya&layout=compact&theme=default&langs_count=6)  
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dasssayanhya&show_icons=true&theme=light&count_private=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dasssayanhya&layout=compact&theme=light&langs_count=6)  
 
 ---
 
