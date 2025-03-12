@@ -43,8 +43,8 @@ Passionate about **Python scripting**, I love experimenting with automation, bot
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasssayanhya&show_icons=true&theme=solarized-light&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasssayanhya&layout=compact&theme=solarized-light&langs_count=6)  
 
 ---
 
